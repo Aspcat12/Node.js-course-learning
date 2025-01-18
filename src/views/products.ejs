@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+  <h1>Products</h1>
+  <% products.map((products)=>{ %>
+    <h4>
+      <a href="/products/<%=products.id%>">ชื่อสินค้า : <%=products.productTitle%></a>
+    </h4>
+    <h4>
+      คำอธิบาย : <%=products.productDescription%>
+    </h4>
+    <h4>
+      ราคา : <%=products.productPrice%> บาท
+    </h4>
+    <% }) %>
+</body>
+
+</html>

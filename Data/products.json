@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "productTitle": "น้ำยาล้างจาน",
+        "productDescription": "หอมๆ",
+        "productPrice": 30
+    },
+    {
+        "id": 1,
+        "productTitle": "น้ำยาล้างจาน 2",
+        "productDescription": "หอมๆ 2",
+        "productPrice": 40
+    },
+    {
+        "id": 2,
+        "productTitle": "น้ำยาล้างจาน 3",
+        "productDescription": "หอมๆ 3",
+        "productPrice": 50
+    },
+    {
+        "id": 3,
+        "productTitle": "น้ำยาล้างจาน 4",
+        "productDescription": "หอมๆ 4",
+        "productPrice": 60
+    }
+]
